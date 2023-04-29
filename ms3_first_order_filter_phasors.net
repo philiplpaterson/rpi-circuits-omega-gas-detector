@@ -1,0 +1,7 @@
+* C:\Users\phili\OneDrive\Documents\Academic\RPI\Class\S2023\circuits_intro\labs\rpi-circuits-omega-gas-detector\ms3_first_order_filter_phasors.asc
+R1 Vin Vout 10k
+V1 Vin 0 SINE(2.5 2.5 6) AC 1
+C1 Vout 0 4.7µF
+.tran 1
+.backanno
+.end
